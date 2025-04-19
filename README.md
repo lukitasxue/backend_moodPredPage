@@ -102,8 +102,8 @@ This model was built from scratch using **NumPy** - no scikit-learn involved. It
 
 - Trained manually using a basic loss function (MSE)
 - The model achieves:
-  - **MSE**: `0.638`
-  - **RMSE**: `0.798`
+  - **MSE**: `0.612`
+  - **RMSE**: `0.783`
 
 ---
 
